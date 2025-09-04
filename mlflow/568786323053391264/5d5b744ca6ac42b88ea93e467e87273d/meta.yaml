@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/568786323053391264/5d5b744ca6ac42b88ea93e467e87273d/artifacts
+end_time: 1756984142597
+entry_point_name: ''
+experiment_id: '568786323053391264'
+lifecycle_stage: active
+run_id: 5d5b744ca6ac42b88ea93e467e87273d
+run_name: ambitious-panda-590
+run_uuid: 5d5b744ca6ac42b88ea93e467e87273d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756984138441
+status: 3
+tags: []
+user_id: root
